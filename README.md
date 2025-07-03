@@ -37,5 +37,3 @@ pytest test_script.py
 - Для вывода используется `tabulate`
 - Без использования pandas
 
-## Автор
-Кандидат на позицию Python Junior
